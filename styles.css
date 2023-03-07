@@ -10,7 +10,7 @@ h1{
     color: #66BFBF;
     margin-top: 50px;
     line-height: 2;
-    text-shadow: 2px 3px 2px #11999E;
+    font-family: 'Sacramento',cursive;
 }
 h2{
     font-size: 2.5rem;
